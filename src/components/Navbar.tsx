@@ -1,6 +1,6 @@
 "use client";
 import { motion } from "framer-motion";
-import styles from "../../../Metaversus/styles";
+import styles from "@/styles";
 import { navVariants } from "../utils/motion";
 import Image from "next/image";
 
